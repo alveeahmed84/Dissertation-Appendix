@@ -1,0 +1,12 @@
+# The Global Findex microdata may not be redistributed under the World Bank
+# Microdata Library terms of use. Never commit the source releases or the
+# pooled analysis file built from them.
+*.csv
+*.dta
+*.zip
+*.xls
+*.xlsx
+
+# Stata working files
+*.smcl
+*.tmp
